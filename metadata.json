@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Quiz Editor",
+  "description": "A comprehensive tool to create, edit, and manage various types of quiz questions with multimedia support. Users can build complex quizzes, reorder questions with drag-and-drop, and export them as a JSON file for later use.",
+  "requestFramePermissions": []
+}
